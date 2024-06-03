@@ -28,6 +28,7 @@ To set up the necessary environment:
 Open the notebook in Jupyter and run the cells sequentially.
 
 ## Interactive Analysis
+In the Table of Content section of the `notebook.ipynb`, click on the `UI-ipywidgets for N-gram parameter`. This section can be executed seperately from other parts of the notebook.
 
 Widgets are used for interactive analysis:
 - Dropdown to select product types.
